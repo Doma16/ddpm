@@ -1,1 +1,5 @@
 __pycache__/
+runs/
+models/DDPM_c/
+models/__pycache__/
+
