@@ -1,5 +1,6 @@
-__pycache__/
-runs/
-models/DDPM_c/
-models/__pycache__/
-
+__pycache__
+runs/*
+models/DDPM_c/*
+models/__pycache__/*
+*.pt
+events.out.*
