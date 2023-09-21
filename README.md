@@ -1,8 +1,9 @@
 # ddpm
 
-Content image <br/>
+Diffusion generated <br/>
 <img src='./results/DDPM_c/50.jpg' alt='image' title='content image' style='width: 300px'>
 
+Images in order: <br/>
 <a> 
 {'airplane': 0,
   'automobile': 1,
