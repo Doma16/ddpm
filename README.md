@@ -1,7 +1,7 @@
 # ddpm
 
 Content image <br/>
-<img src='/results/DDPM_C/50.jpg' alt='image' title='content image' style='width: 300px'>
+<img src='./results/DDPM_c/50.jpg' alt='image' title='content image' style='width: 300px'>
 
 <a> 
 {'airplane': 0,
